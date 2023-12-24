@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a5c92384-daa8-4389-9fab-4ec9ab002f4a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AirplaneInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AirportSate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FlightSchedule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FlightSchedulingAlgorithm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FlightTime.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResultDateWithIndex.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RunwayInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/learnJavaAgain.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/learnJavaAgain/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/learnJavaAgain/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/learnJavaAgain/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/learnJavaAgain/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/learnJavaAgain/AirplaneInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/learnJavaAgain/AirportSate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/learnJavaAgain/FlightSchedule.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/learnJavaAgain/FlightSchedulingAlgorithm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/learnJavaAgain/FlightTime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/learnJavaAgain/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/learnJavaAgain/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/learnJavaAgain/ResultDateWithIndex.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/learnJavaAgain/RunwayInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/learnJavaAgain/learnJavaAgain.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2ZyXoFo5bkgX8H5YD3Alc3UNqD9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.9-corretto-17.0.9-3183f394aec4-8f899f12" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a5c92384-daa8-4389-9fab-4ec9ab002f4a" name="Changes" comment="" />
+      <created>1703395467043</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1703395467043</updated>
+      <workItem from="1703395469444" duration="32000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
